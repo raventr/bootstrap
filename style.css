@@ -1,0 +1,50 @@
+body 
+
+.splash-screen{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-image: url("https://i.pinimg.com/originals/be/9a/8e/be9a8e798b74b7d0e00fa6cb9ba4334e.jpg");
+    background-size:cover;
+ }
+
+
+ .bla {
+    color:#17a2b8;
+ }
+ 
+ .splash-screen .cta {
+    padding:22px;
+    background-color: rgba(0, 0, 0, 0.472);
+    color:#fff;
+    border-radius:15px;
+ }
+ 
+ #about .card {
+    border:none;
+ }
+ 
+ #about .card .top{
+    text-align:center;
+    font-size:4em;
+ }
+ 
+ nav{
+    padding:22px;
+    background-color: rgba(80, 167, 23, 0.404);
+    border-radius:15px;
+ }
+
+ footer{
+    padding:22px;
+    background-color: rgba(0, 96, 252, 0.76);
+    border-radius:15px;
+ }
+
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color:rgb(17, 1, 1)
+  }
